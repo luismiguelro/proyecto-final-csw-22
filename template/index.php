@@ -62,7 +62,7 @@
               <a class="nav-link" href="#local">Ubicación</a>
             </li>
 
-            <!--Lista desplegable(ayudará para enlazar con el inicio de sesion)-->
+            <!--Lista desplegable(ayudará para enlazar con el inicio de sesion)
             <li class="nav-item dropdown">
               <a
                 class="nav-link dropdown-toggle"
@@ -76,7 +76,7 @@
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="login.php">Ingresar</a></li>
               </ul>
-            </li>
+            </li> -->
           </ul>
           <form class="d-flex" role="search">
             <input
