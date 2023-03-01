@@ -1,0 +1,12 @@
+form{
+    width: 400px;
+    margin: auto;
+}
+.error{
+  background-color: rgb(175, 74,74);
+  color: white;
+  padding: 10px;
+  width: 95%;
+  border-radius: 5px;
+  margin: 20px auto;  
+}
